@@ -51,7 +51,7 @@ Party | Seats | %
 Conservative | ${con.seats} | ${((con.seats / 650) * 100).toFixed(2)}%
 Labour | ${lab.seats} | ${((lab.seats / 650) * 100).toFixed(2)}%
 SNP | ${snp.seats} | ${((snp.seats / 650) * 100).toFixed(2)}%
-Liberal Democrats | ${libdem.seats} | ${((libdem.votes / 650) * 100).toFixed(2)}%
+Liberal Democrats | ${libdem.seats} | ${((libdem.seats / 650) * 100).toFixed(2)}%
 UKIP | ${ukip.seats} | ${((ukip.seats / 650) * 100).toFixed(2)}%
 Plaid Cymru | ${pc.seats} | ${((pc.seats / 650) * 100).toFixed(2)}%
 Sinn Féin | ${sf.seats} | ${((sf.seats / 650) * 100).toFixed(2)}%
